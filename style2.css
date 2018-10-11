@@ -1,0 +1,38 @@
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+.box{
+    width: 50%;
+    height: 200px;
+    color:white;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+
+}
+.box1{
+    background-color: lightseagreen;
+
+}
+.box2{
+    background-color: darkblue;
+    height: 80px !important;
+}
+.box3{
+    background-color: cornflowerblue;
+
+}
+.box4{
+    background-color: yellowgreen;
+    align-items: stretch;
+
+    }
+.box5{
+    background-color: rebeccapurple;
+}
+.box6{
+    background-color: orange;
+}

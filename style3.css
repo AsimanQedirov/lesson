@@ -1,0 +1,34 @@
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 10%;
+    padding: 5px 20px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.box1{
+    background-color: lightseagreen;
+
+}
+.box2{
+    background-color: darkblue;
+
+}
+.box3{
+    background-color: cornflowerblue;
+}
+.box4{
+    background-color: yellowgreen;
+}
+.box5{
+    background-color: rebeccapurple;
+}
+.box6{
+    background-color: orange;
+}

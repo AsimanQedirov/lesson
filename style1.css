@@ -1,0 +1,47 @@
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow:row wrap;
+}
+.box{
+
+    box-sizing: border-box;      /* .box klasi vasitesile umumi gorunush vermishem*/
+    padding-top: 15px;
+    font-size: 60px;
+    vertical-align: center;
+    width: 33.333%;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+.box1{
+    background-color: lightseagreen;
+}
+.box2{
+    background-color: dodgerblue;
+}
+.box3{
+    background-color: rebeccapurple;
+}
+.box4{
+    background-color: midnightblue;
+}
+.box5{
+    background-color: greenyellow;
+}
+.box6{
+    background-color: orange;
+}
+.box7{
+    background-color: firebrick;
+}
+.box8{
+    background-color: gray;
+}
+.box9{
+    background-color: forestgreen;
+}
+.box10{
+    background-color: mediumseagreen;
+}
